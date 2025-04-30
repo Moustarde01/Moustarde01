@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am a current student at the EPFl in Chemistry.
+I am a current student at the EPFL
+in Chemistry.
 <!--
 **Moustarde01/Moustarde01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
